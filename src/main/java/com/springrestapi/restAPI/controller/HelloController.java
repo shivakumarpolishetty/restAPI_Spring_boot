@@ -9,6 +9,6 @@ public class HelloController {
     @RequestMapping("/hello")
     public String sayhi(){
 
-        return "welcome to the sringboot";
+        return "hi ";
     }
 }
